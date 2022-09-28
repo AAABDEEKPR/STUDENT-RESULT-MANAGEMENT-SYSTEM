@@ -1,0 +1,36 @@
+#main {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradint(rgba(238, 16, 16, 0.4),rgba(215, 24, 24, 0.4)),url("img.jpg");
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+
+#inputs {
+    width: 24rem;
+    height: 28rem;
+    box-shadow: 10px 10px 15px coral;
+    position: relative;
+    margin: 6% auto;
+    border-radius: 1rem;
+    font-weight: bolder;
+    background-color: #12475f;
+    padding:8px;
+    color: yellow;
+    text-align: center;
+}
+
+input {
+    font-weight: bolder;
+    background-color:rgba( 0, 0,0, 0.8);
+    color: white;
+    border:none;
+    margin:10px;
+    padding: 10px;
+    box-shadow: 4px 4px 10px green;
+    border-radius: 9px;
+}
+p{
+    margin-top: 15px;
+}
